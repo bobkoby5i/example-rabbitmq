@@ -20,6 +20,6 @@ Application flow:
 * You will notice that the value for "Are Messages Sent" changes to true in a second or so. 
 
 # Change log
-* 2020-01-14 Update to Java 11
-* 2020-01-14 Spring Boot 2.0.0.RELEASE
+2020-01-14 Update to Java 11
+2020-01-14 Spring Boot 2.0.0.RELEASE
 
