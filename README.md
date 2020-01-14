@@ -8,7 +8,7 @@ Things to be checked before starting the application:
 * If you wish to used a different database / schema, you will need to override values in application.properties
 * Ensure that you have a rabbitmq server running and correctly configured in application.properties (default is localhost:5671) )
 
-Application flow:
+## Application flow:
  
 * Once the application is started, a browser at http://localhost:8080
 * Create a new Product record
@@ -19,7 +19,7 @@ Application flow:
 * On the browser, keep refreshing the page: http://localhost:8080/product/show/1 
 * You will notice that the value for "Are Messages Sent" changes to true in a second or so. 
 
-# Change log
+### Change log
 * 2020-01-14 Update to Java 11
 * 2020-01-14 Spring Boot 2.0.0.RELEASE
 
