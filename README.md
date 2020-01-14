@@ -18,3 +18,8 @@ Application flow:
 * This message is read and processed by MessageSender class.
 * On the browser, keep refreshing the page: http://localhost:8080/product/show/1 
 * You will notice that the value for "Are Messages Sent" changes to true in a second or so. 
+
+# Change log
+2020-01-14 Update to Java 11
+2020-01-14 Spring Boot 2.0.0.RELEASE
+
